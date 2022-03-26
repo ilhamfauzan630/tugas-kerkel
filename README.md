@@ -1,2 +1,2 @@
-# tugas-kerkel
+# tugas-studikasus
 studi kasus spbu
